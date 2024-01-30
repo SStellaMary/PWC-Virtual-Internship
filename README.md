@@ -18,6 +18,12 @@ Task 3: Customer Retention
 
 Identify and define relevant KPIs for the retention manager using the dataset. Develop a Power BI dashboard to present these KPIs, and compose a concise email to the engagement partner explaining findings and suggesting improvements for customer retention.
 
+Your colleague, the engagement partner, asks you to do the following tasks:
+
+Define proper KPIs
+Create a dashboard for the retention manager reflecting the KPIs
+Write a short email to him (the engagement partner) explaining your findings, and include suggestions as to what needs to be changed.
+
 Task 4: Diversity & Inclusion
 
 Examine gender balance in the executive suite and formulate appropriate KPIs based on the dataset. Key measures to calculate include:
